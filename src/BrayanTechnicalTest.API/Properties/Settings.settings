@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BrayanTechnicalTest.API.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceTransactions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://quiet-stone-2094.herokuapp.com/transactions.json</Value>
+    </Setting>
+    <Setting Name="ServicesRates" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://quiet-stone-2094.herokuapp.com/rates.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

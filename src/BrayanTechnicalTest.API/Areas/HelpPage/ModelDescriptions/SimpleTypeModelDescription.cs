@@ -1,0 +1,6 @@
+namespace BrayanTechnicalTest.API.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
